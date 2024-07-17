@@ -1,1 +1,1 @@
-# UrbanNest
+The Real Estate Website project provides a platform for users to search, view, and list properties for sale or rent. It includes features like property filtering, detailed property descriptions, user accounts, and contact forms for inquiries, offering a comprehensive solution for buyers, sellers, and renters.
